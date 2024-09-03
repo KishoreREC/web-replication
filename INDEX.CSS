@@ -1,0 +1,103 @@
+.navbar{
+    margin-left:150px;;
+    WIDTH:80vw;
+    height:70px;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    font-family:"New Amsterdam", sans-serif;
+  
+    display:flex;
+    align-items:center;
+    border-radius:10px;
+
+    
+}
+.header{
+    margin-left:40px;
+    font-size:larger;
+    color:azure;
+    letter-spacing:2px;
+
+}
+.navbar-cont{
+    display:flex;
+    flex-direction:row;
+       
+  
+    
+}
+.home{
+    margin-left:40px;
+    font-size:small;
+    color:azure;
+    margin-top: 25px;
+    margin-left:160px;
+  
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+}
+.contact{
+    margin-left:40px;
+    font-size:small;
+    color:azure;
+    margin-top: 25px;
+    margin-left:100px;
+  
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+}
+.home:hover{
+    margin-left:40px;
+    font-size:small;
+    color:azure;
+    margin-top: 25px;
+    margin-left:160px;
+    border-bottom:1px solid;
+    padding-bottom:2px;
+   
+  
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+}
+.contact:hover{
+    margin-left:40px;
+    font-size:small;
+    color:azure;
+    margin-top: 25px;
+    margin-left:100px;
+    border-bottom:1px solid;
+    padding-bottom:2px;
+  
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+}
+.logout{
+    background-color:rgb(101, 65, 65);
+    color:white;
+    height:30px;
+    border-style:none;
+    border-radius:30px;
+    margin-left:100px;
+    margin-top:18px;
+    width:60px;
+}
+.logout:hover{
+    background-color:rgb(147, 12, 12);
+    color:white;
+    height:30px;
+    border-style:none;
+    border-radius:30px;
+    margin-top:18px;
+    width:60px;
+}
+.navbar-1{
+    width:cover;
+    height:40vh;
+    
+}
+
+
